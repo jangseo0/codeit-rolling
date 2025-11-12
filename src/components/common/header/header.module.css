@@ -5,6 +5,7 @@
 }
 
 .headerContainer {
+<<<<<<< HEAD
   display: flex;
   margin-top: 11px;
   margin-bottom: 12px;
@@ -12,6 +13,15 @@
   justify-content: space-between;
   align-items: center;
   height: 100%;
+=======
+  .headerContainer {
+    display: flex;
+    margin-top: 11px;
+    margin-bottom: 12px;
+    align-items: center;
+    justify-content: space-around;
+  }
+>>>>>>> 99d5334 (Style: 헤더 가운데 정렬 코드 추가)
 }
 
 .logo {

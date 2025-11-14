@@ -5,46 +5,13 @@
 }
 
 .headerContainer {
-<<<<<<< HEAD
   box-sizing: border-box;
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a22dc27 (Chore: rebase로 발생한 코드 오류 수정)
-=======
-  box-sizing: border-box;
->>>>>>> b2d7add (Style: headerContainer 정렬 속성 변경)
->>>>>>> feature/postId-page
   display: flex;
   margin-top: 11px;
   margin-bottom: 12px;
   align-items: center;
-<<<<<<< HEAD
-  justify-content: space-between;
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-  justify-content: space-between;
-  align-items: center;
-  height: 100%;
-=======
-  .headerContainer {
-    display: flex;
-    margin-top: 11px;
-    margin-bottom: 12px;
-    align-items: center;
-    justify-content: space-around;
-  }
->>>>>>> 99d5334 (Style: 헤더 가운데 정렬 코드 추가)
-=======
   justify-content: space-around;
->>>>>>> a22dc27 (Chore: rebase로 발생한 코드 오류 수정)
-=======
-  justify-content: space-between;
->>>>>>> b2d7add (Style: headerContainer 정렬 속성 변경)
->>>>>>> feature/postId-page
+  height: 100%;
 }
 
 .logo {

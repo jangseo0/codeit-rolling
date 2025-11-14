@@ -6,10 +6,14 @@
 
 .headerContainer {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a22dc27 (Chore: rebase로 발생한 코드 오류 수정)
   display: flex;
   margin-top: 11px;
   margin-bottom: 12px;
   align-items: center;
+<<<<<<< HEAD
   justify-content: space-between;
   align-items: center;
   height: 100%;
@@ -22,6 +26,9 @@
     justify-content: space-around;
   }
 >>>>>>> 99d5334 (Style: 헤더 가운데 정렬 코드 추가)
+=======
+  justify-content: space-around;
+>>>>>>> a22dc27 (Chore: rebase로 발생한 코드 오류 수정)
 }
 
 .logo {

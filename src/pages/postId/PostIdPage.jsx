@@ -9,7 +9,6 @@ import { useState, useEffect } from 'react';
 import { getMappedColor } from "@/pages/postId/type/colorMap";
 import { getRecipient, getMessages } from '@/shared/api/recipientApi';
 
-
 function PostIdPage() {
   // URL에서 recipientId 가져오기
   const params = useParams();

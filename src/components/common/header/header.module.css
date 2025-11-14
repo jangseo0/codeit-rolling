@@ -5,12 +5,12 @@
 }
 
 .headerContainer {
+  box-sizing: border-box;
   display: flex;
   margin-top: 11px;
   margin-bottom: 12px;
   align-items: center;
-  justify-content: space-between;
-  height: 100%;
+  justify-content: space-around;
 }
 
 .logo {

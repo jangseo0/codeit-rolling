@@ -60,7 +60,6 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
   margin-top: 11px;
-
 }
 
 /* AddCard 컴포넌트는 맨 앞에 두기 */

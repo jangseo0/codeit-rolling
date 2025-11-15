@@ -9,11 +9,14 @@
   font-family: Pretendard;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
   cursor: pointer;
+<<<<<<< HEAD
   transition: transform 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
 .container:hover {
   transform: scale(0.97);
+=======
+>>>>>>> feature/postId-page
 }
 
 .header {
@@ -73,7 +76,11 @@
   color: var(--gray-600);
   margin-top: 16px;
   line-height: 150%;
+<<<<<<< HEAD
   overflow: hidden;
+=======
+  overflow-y: hidden;
+>>>>>>> feature/postId-page
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
